@@ -8,6 +8,21 @@ body
     padding: 0;
 
 }
+#cabecera #tagline
+{
+    padding: 0 0 0 1em;
+    font-weight: 400;
+    font-size: .8em;
+}
+#cabecera
+{
+    background: #33a;
+    box-shadow: 0 2px 20px 0 rgb(0,0,0,.5);
+    color: #fff;
+    font-weight: 700;
+    margin: 0;
+    padding: .5em;
+}
 #container
 {
     width: 70%;
